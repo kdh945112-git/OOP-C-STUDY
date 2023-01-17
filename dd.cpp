@@ -6,7 +6,7 @@ int main()
   using namespace std;
   int carrots;
   carrots = 25;
-  cout << "I have";
+  cout << "I have many";
   cout << carrots;
   cout << "carrots.";
   cout << endl;
